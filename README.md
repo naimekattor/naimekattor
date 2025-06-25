@@ -5,6 +5,9 @@
 Welcome to my GitHub! I’m Naim, a passionate frontend developer building a strong foundation in MERN stack development. With hands-on experience across modern technologies, I bring expertise, creativity, and a love for problem-solving to every project I tackle.
 
 ---
+<a href="" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Naim Hossen" height="500" >
+    </a>
 
 # 💫 About Me:
 🌱 Currently sharpening my MERN stack expertise<br>💡 Always eager to learn and experiment with new technologies<br>✈️ I love travelling and dream of exploring the whole world<br>👨‍💻 Striving to deliver expert-level solutions and innovative user experiences<br>
