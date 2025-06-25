@@ -43,7 +43,7 @@ Welcome to my GitHub! I’m Naim, a passionate frontend developer building a str
 
 
 ## 📫 Connect with Me
-- [Email](naimekattor@gmail.com)
+  Email :naimekattor@gmail.com
 - [Twitter](https://x.com/Naimekattor)
 - [LinkedIn](https://www.linkedin.com/in/naimekattor/)
 - [Personal Website](https://naim-portfolio-delta.vercel.app/)
