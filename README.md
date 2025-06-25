@@ -5,7 +5,7 @@
 Welcome to my GitHub! I’m Naim, a passionate frontend developer building a strong foundation in MERN stack development. With hands-on experience across modern technologies, I bring expertise, creativity, and a love for problem-solving to every project I tackle.
 
 ---
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="./linkedinbanner.png" alt="Mokkapps GitHub README header image">
 
 # 💫 About Me:
 🌱 Currently sharpening my MERN stack expertise<br>💡 Always eager to learn and experiment with new technologies<br>✈️ I love travelling and dream of exploring the whole world<br>👨‍💻 Striving to deliver expert-level solutions and innovative user experiences<br>
