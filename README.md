@@ -186,7 +186,7 @@ A production-oriented blogging platform with role-based access and database-leve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naimekattor&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Naim's GitHub Stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=naimekattor&theme=dark&hide_border=false" alt="Naim's GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimekattor&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 
